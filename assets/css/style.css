@@ -1182,12 +1182,16 @@ section {
 .gallery {
   padding-bottom: 0;
   gap: 20px;
+
 }
 
 .gallery .gallery-item {
   overflow: hidden;
   border-right: 3px solid #fff;
   border-bottom: 3px solid #fff;
+  display: flex;
+  align-content: center;
+  justify-content: center;
 }
 
 .gallery .gallery-item img {
