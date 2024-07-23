@@ -1181,6 +1181,7 @@ section {
 --------------------------------------------------------------*/
 .gallery {
   padding-bottom: 0;
+  gap: 20px;
 }
 
 .gallery .gallery-item {
